@@ -1,39 +1,61 @@
 # 📚 DSA Problem Solving
 
-A collection of my **Data Structures and Algorithms** practice problems solved across multiple coding platforms.
+A collection of my **Data Structures and Algorithms** practice problems solved using **Java**.
 
-## 🌐 Coding Platforms
+This repository contains my LeetCode problem-solving journey, organized by topic to make learning, revision, and tracking progress easier.
 
-- 🟢 LeetCode
-- 🟡 GeeksforGeeks
-- 🔵 HackerRank
+---
+
+## 🌐 Coding Platform
+
+- 🟢 **LeetCode**
+
+---
 
 ## 🧠 Topics Covered
 
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Searching
-- Sorting
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
+- 📦 Arrays
+- 🔤 Strings
+- 🔗 Linked Lists
+- 🌳 Binary Trees
+- 🔍 Searching
+- 🔢 Mathematics
+- 🧮 Matrix
+- 📚 Stack
+- 🚶 Queue
+- 🔄 Recursion
+- 🕸️ Graphs
+- 💡 Dynamic Programming
 
-## 💻 Programming Languages
+> More topics will be added as I continue solving problems.
 
-- C
-- Java
+---
 
+## 💻 Programming Language
+
+- ☕ Java
 ## 📂 Repository Structure
 
 ```text
 DSA-Problem-Solving/
 │
-├── LeetCode/
-├── GeeksForGeeks/
-├── HackerRank/
-└── README.md
-
+├── Array/
+│   ├── 35-search-insert-position/
+│   ├── 66-plus-one/
+│   ├── 136-single-number/
+│   ├── 169-majority-element/
+│   └── ...
+│
+├── String/
+│   ├── 125-valid-palindrome/
+│   ├── 151-reverse-words-in-a-string/
+│   ├── 242-valid-anagram/
+│   ├── 344-reverse-string/
+│   └── ...
+│
+├── Difficulty-Basic/
+│   ├── Factorial/
+│   └── Start Coding/
+│
+├── README.md
+└── ...
